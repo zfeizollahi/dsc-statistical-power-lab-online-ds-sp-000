@@ -1,3 +1,4 @@
+
 # Statistical Power - Lab
 
 ## Introduction
